@@ -1,4 +1,8 @@
-// Prototype: <h1>Hello</h1>
+// Prototype: 
+// <div class="container">
+//   <h1>Hello</h1>
+// </div>
+
 // grab the root element
 const rootElement = document.getElementById('root');
 // create an H1
